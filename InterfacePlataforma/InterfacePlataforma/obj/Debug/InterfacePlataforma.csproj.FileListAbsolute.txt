@@ -1,0 +1,11 @@
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\bin\Debug\InterfacePlataforma.exe.config
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\bin\Debug\InterfacePlataforma.exe
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\bin\Debug\InterfacePlataforma.pdb
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\obj\Debug\InterfacePlataforma.csprojAssemblyReference.cache
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\obj\Debug\InterfacePlataforma.Properties.Resources.resources
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\obj\Debug\InterfacePlataforma.csproj.GenerateResource.cache
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\obj\Debug\InterfacePlataforma.csproj.CoreCompileInputs.cache
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\obj\Debug\InterfacePlataforma.exe
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\obj\Debug\InterfacePlataforma.pdb
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\obj\Debug\InterfacePlataforma.Form_init.resources
+C:\Users\heron\OneDrive\Documentos\Mestrado\PPGEEL-UFSC\Dissertação\Protótipo\Interface\InterfacePlataforma\InterfacePlataforma\obj\Debug\InterfacePlataforma.Form_visualizar.resources
